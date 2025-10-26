@@ -1,6 +1,6 @@
 <!-- Greeting -->
 <h1 align="center">
-  Hi there, I'm Anirudh Pandey 👋
+  Hi there, I'm Anirudh Pandey
 </h1>
 <h3 align="center">
   Welcome to my GitHub Profile!
@@ -8,25 +8,25 @@
 
 <!-- About Me -->
 <p align="left">
-  I'm a [Student / Developer / Tech Enthusiast] from [Delhi/India].  
+  I'm a Student / Developer / Tech Enthusiast from Delhi, India.  
   I'm passionate about **Web Development, Machine Learning, Open Source**.  
-  I'm currently working on **[frappe]** and learning **[Git bash]**.
+  I'm currently working on **Frappe** and learning **Git & Bash**.
 </p>
 
-🚀 **About Me**
+**About Me**
 
-- 🔭 I’m currently working on a **social media dashboard** project  
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**  
-- 👯 I’m looking to collaborate on **open-source web-development** projects  
-- 🤔 I’m looking for help with **advanced server-side performance optimization**  
-- 💬 Ask me about **React, Node.js, and Python**  
-- 📫 How to reach me: **Anirudh960437@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I can solve a **Rubik’s Cube in under a minute!**
+- I'm currently working on a **social media dashboard** project  
+- I'm currently learning **TypeScript** and **GraphQL**  
+- I'm looking to collaborate on **open-source web-development** projects  
+- I'm looking for help with **advanced server-side performance optimization**  
+- Ask me about **React, Node.js, and Python**  
+- How to reach me: **Anirudh960437@gmail.com**  
+- Pronouns: **He/Him**  
+- Fun fact: I can solve a **Rubik’s Cube in under a minute!**
 
 ---
 
-💻 **Tech Stack & Tools**
+**Tech Stack & Tools**
 
 <p align="left">
   <!-- Languages -->
@@ -46,7 +46,7 @@
 
 ---
 
-📊 **My GitHub Stats**
+**My GitHub Stats**
 
 <p align="center">
   <!-- Stats Card -->
@@ -61,14 +61,17 @@
 
 ---
 
-🌐 **Connect with Me**
+**Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirudh-pandey-7b1b32232" target="_blank">
+  <a href="https://www.linkedin.com/in/anirudh-pandey-61ba51383/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/911_Anirudh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://instagram.com/the_anirudh_02" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:Anirudh960437@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
